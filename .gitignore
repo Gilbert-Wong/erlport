@@ -5,3 +5,5 @@
 /sandbox
 /packages
 /testall.log
+erl_crash.dump
+_build/
